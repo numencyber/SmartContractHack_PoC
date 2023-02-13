@@ -2,7 +2,7 @@
 
 - BonqDAOHack (attacked at  Feb-01-2023 ) Details:
 
-​       -https://www.numencyber.com/bonqdao-price-manipulation-attack-analysis-with-poc/
+  -https://www.numencyber.com/bonqdao-price-manipulation-attack-analysis-with-poc/
 
 - OrionProtocolHack (attacked at Feb-02-2023) Details:
 
