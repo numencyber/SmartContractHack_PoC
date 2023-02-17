@@ -12,4 +12,7 @@
 
   -https://www.numencyber.com/technical-analysis-of-dforce-networks-5-4-million-attack/
 
+- PatypusHack (attacked at Feb-17-2023) Details:
+
+  -https://twitter.com/numencyber/status/1626406180267646978
   
