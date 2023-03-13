@@ -1,11 +1,11 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
 import "forge-std/Test.sol";
 import "../src/Counter.sol";
 import "openzeppelin-contracts/contracts/token/ERC20/ERC20.sol";
 import "openzeppelin-contracts/contracts/token/ERC20/ERC20.sol";
-
+// Use GNU General Public License v3.0
 interface UNI{
     function swap(uint amount0Out, uint amount1Out, address to, bytes calldata data) external;
 }

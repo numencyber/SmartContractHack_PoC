@@ -1,8 +1,9 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 //dForcenet Re-entry attack poc
 //tx：https://arbiscan.io/tx/0x5db5c2400ab56db697b3cc9aa02a05deab658e1438ce2f8692ca009cc45171dd
 //twitter：https://twitter.com/dForcenet/status/1623904209161830401
 //Copyright Reserved by Numen Cyber Technology：https://twitter.com/numencyber
+
 pragma solidity ^0.8.13;
 
 import "forge-std/Test.sol";

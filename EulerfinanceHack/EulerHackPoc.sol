@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
 import "forge-std/Test.sol";
@@ -6,6 +6,7 @@ import "../src/Counter.sol";
 
 // attack details: https://twitter.com/NumenAlert/status/1635222702721204225
 // Copyright Reserved by Numen Cyber Technology：https://twitter.com/numencyber
+// Use GNU General Public License v3.0
 interface Euler{
 
 }
