@@ -15,4 +15,8 @@
 - PlatypusdefiHack (attacked at Feb-17-2023) Details:
 
   -https://twitter.com/numencyber/status/1626406180267646978
+
+- EulerfinanceHack (attcked at Mar-13-2023) Details:
+
+  -https://twitter.com/NumenAlert/status/1635222702721204225
   
