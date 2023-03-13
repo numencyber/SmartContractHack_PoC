@@ -6,7 +6,7 @@ import "../src/Counter.sol";
 
 // attack details: https://twitter.com/NumenAlert/status/1635222702721204225
 // Copyright Reserved by Numen Cyber Technology：https://twitter.com/numencyber
-// Use GNU General Public License v3.0
+
 interface Euler{
 
 }
